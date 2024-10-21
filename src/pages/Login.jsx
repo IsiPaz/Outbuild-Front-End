@@ -19,7 +19,7 @@ function Login() {
       <div className="sm:mx-auto sm:w-full sm:max-w-sm p-6 border border-gray-300 rounded-lg shadow-lg bg-white">
         <img alt="Your Company" src={Logo} className="mx-auto h-10 w-auto" />
         <h2 className="mt-10 text-center text-2xl font-bold leading-9 tracking-tight text-gray-900">
-          ProLogin
+          ProLogin 🚀
         </h2>
 
         <div className="mt-10">

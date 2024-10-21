@@ -2,6 +2,10 @@
 
 This repository contains the frontend code for the Outbuild's Test.
 
+## Access via this link ⬇️
+
+* [Click here!](https://isipaz.github.io/Outbuild-Front-End/)
+
 ## Getting Started
 
 To get a copy of the project up and running on your local machine, follow these instructions:

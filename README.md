@@ -1,4 +1,4 @@
-# Outbuild-Front-End
+# Outbuild-Front-End 🚀
 
 This repository contains the frontend code for the Outbuild's Test.
 
@@ -15,17 +15,16 @@ To get a copy of the project up and running on your local machine, follow these 
 1. Clone the repository:
    ```bash
    git clone https://github.com/IsiPaz/Outbuild-Front-End.git
-    ```
-   
+   ```
 2. Navegate to Outbuild-Front-End directory:
-    ```bash
-     cd Outbuild-Front-End
-     ```
+   ```bash
+    cd Outbuild-Front-End
+   ```
 3. Install dependencies:
-    ```bash
-      npm i
-     ```
+   ```bash
+     npm i
+   ```
 4. Start the development server:
-    ```bash
-      npm run dev
-     ```
+   ```bash
+     npm run dev
+   ```

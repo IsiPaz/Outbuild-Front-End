@@ -14,7 +14,7 @@ To get a copy of the project up and running on your local machine, follow these 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Outbuild-Front-End.git
+   git clone [https://github.com/your-username/Outbuild-Front-End.git](https://github.com/IsiPaz/Outbuild-Front-End.git)
     ```
    
 2. Navegate to Outbuild-Front-End directory:
